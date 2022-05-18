@@ -1,5 +1,7 @@
 ## Project Description
-# 🐙
+# 🐙Product Statement
+
+According to the 2021 Volunteer Management Progress Report (VolunteerPro, 2021) the biggest problem in Volunteerism for organizations is recruitment. It is evident that the process of recruitment for volunteers can be quite tricky, however we believe this issue is multifaceted. For instance, the issue with recruiting of volunteers can not only be attributed to a lack of trying from the organization but rather to the absence of opportunities presented to potential volunteers. Although there are other reasons as to why volunteers can be difficult to attain, like ‘volunteer inertia’ (Hallett et al., 2020), we believe it is crucial to at least create a system where volunteer work can be easily accessed. Thus, the purpose of this project is to design an application that will allow individuals to easily access volunteer opportunities near them in a way that allows them to feel that they have made a positive impact.     
 
 ## User Research
 
