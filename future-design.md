@@ -6,8 +6,6 @@ nav_order: 6
 
 # Future Design
 
-Hi, this is Lean's page.
-
 # Future Design Potential
 
 Given the feedback received during the design process, there is room for further optimization, especially in regards to organizations interconnecting with the user. Some of the major points in the current design include the optimization of the UI in the home page to be more familiar to the user as well as reducing the size of the filtering sidebars to not be more prominent in these pages. The current design may not immediately spark interest in the user's ability at first, as the home page is the most essential page in the design process, and the first page the user gets to typically.
