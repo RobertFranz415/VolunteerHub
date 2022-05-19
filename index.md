@@ -10,7 +10,6 @@
 
 ## User Research
 
-<button name="button" onclick="http://www.google.com">Click me</button>
 
 ## WireFraming and ProtoType Design
 
