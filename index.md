@@ -1,4 +1,4 @@
-## Project Description
+# Project Description
 ### Problem Statement
 
  According to the 2021 Volunteer Management Progress Report (VolunteerPro, 2021) the biggest problem in Volunteerism for organizations is recruitment. It is evident that the process of recruitment for volunteers can be quite tricky, however we believe this issue is multifaceted. For instance, the issue with recruiting of volunteers can not only be attributed to a lack of trying from the organization but rather to the absence of opportunities presented to potential volunteers. Although there are other reasons as to why volunteers can be difficult to attain, like ‘volunteer inertia’ (Hallett et al., 2020), we believe it is crucial to at least create a system where volunteer work can be easily accessed. Thus, the purpose of this project is to design an application that will allow individuals to easily access volunteer opportunities near them in a way that allows them to feel that they have made a positive impact.     
@@ -8,7 +8,7 @@
 
  Typically, organizations that are in need of support from volunteers do not have the resources that companies with the ability to pay for work do to market their need and recruit to fill it. Because of this, these organizations rely heavily on word of mouth and maintaining close ties to individuals that have either given their time or money in the past through traditional mailers and mass emails. There is a largely untapped population who have either never previously given their time to a local organization or may have recently relocated and are not aware of organizations in their locale. Scott McFarland, former Executive Director of Serve Illinois, a governmental body charged with increasing volunteer engagement in Illinois, said, “When we ask people why they don’t volunteer, they tell us that they either didn’t know where to go or no one asked them to”(IDPH, 2016). We strive to address this exact issue with this tool. There is also a need for more personal support in some communities, and we have discussed the potential to incorporate a way to match volunteers with members of their community that need help with personal chores, such as elderly individuals that do not have existing familial support. 
 
-## User Research
+# User Research
 
 
 ## WireFraming and ProtoType Design
