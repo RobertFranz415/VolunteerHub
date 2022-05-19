@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Design Process
+title: Project Overview
 nav_order: 2
 ---
 
-# Project Description
+# Project Overview
 
 Robert's page.
 
