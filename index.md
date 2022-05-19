@@ -4,6 +4,6 @@ title: Introduction
 nav_order: 1
 ---
 
-# Introduction Here. 
+# Introduction
 
 Alekhya's page.
