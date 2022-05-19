@@ -9,14 +9,14 @@ nav_order: 5
 ## Heuristic Evaluation of Issues in Prototypes 
 
 ### Problem 1
-Problem: It is difficult to access different parts of the website quickly from the homepage. There is no main menu to navigate the website quickly. - Duy
+Problem: It is difficult to access different parts of the website quickly from the homepage. There is no main menu to navigate the website quickly.
 
 Screenshot of original:
 <img width="804" alt="Prototype HE 1 orig" src="https://user-images.githubusercontent.com/6775270/169417508-f2449fee-08dd-4a48-a0b0-7d68d7b63b28.png">
 
 Severity: 2 - Minor 
 
-Heuristics: #3 - User in Control, #6 - Recognition over recall     
+Heuristics: #3 - User in Control, #6 - Recognition over recall
 
 Recommendation: Add a navigation menu to the top of every page, so that users are able to navigate throughout the website freely.
 
@@ -24,7 +24,7 @@ Screenshot of revised UI:
 ![Prototype HE 1 revised](https://user-images.githubusercontent.com/6775270/169417530-3c9ab4c6-5b0c-4562-aaf5-fa3b2d588678.png)
 
 ### Problem 2
-Problem: Prototype does not show what happens when we click volunteer. Once the user clicks ‘Volunteer’ where is the user directed to? How do they actually apply for a position, if they need to. - Robert, Alekhya, Kris
+Problem: Prototype does not show what happens when we click volunteer. Once the user clicks ‘Volunteer’ where is the user directed to? How do they actually apply for a position, if they need to.
 
 Screenshot of original:
 <img width="661" alt="Prototype HE 2 orig" src="https://user-images.githubusercontent.com/6775270/169417568-c9e9bddb-5fc3-4fae-bfe9-448aeb675843.png">
@@ -39,7 +39,7 @@ Screenshot of Revised UI:
 ![Prototype HE 2 revised](https://user-images.githubusercontent.com/6775270/169417607-8c25a91a-5e8e-4a5e-be8c-c09e34747347.png)
 
 ### Problem 3
-Problem: Buttons on all the UI pages seem very small. - Alekhya, Kris
+Problem: Buttons on all the UI pages seem very small.
 
 Screenshot of original:
 ![Prototype HE 3 orig](https://user-images.githubusercontent.com/6775270/169417648-6f181610-3f5c-4034-89bb-fcd73b2b2aa1.png)
@@ -48,13 +48,13 @@ Severity: 2 - Minor Usability Problem
 
 Heuristics: #4 - Consistency and Standards
 
-Recommendation: Make these buttons bigger and more visible. The words in the middle of the button are also not visible. This needs to be fixed as well.  
+Recommendation: Make these buttons bigger and more visible. The words in the middle of the button are also not visible. This needs to be fixed as well.
 
 Screenshots of revised UI:
 <img width="667" alt="Prototype HE 3 revised" src="https://user-images.githubusercontent.com/6775270/169417661-06cebfe1-45c9-476b-8f83-426292f28414.png">
 
 ### Problem 4
-Problem: The Login page is missing the “Login” Title on top. Also, it doesn’t have a sign-up button near the top right next to the Home button. This makes it difficult for the user to sign up if they need to register. - Kris, Robert, Duy
+Problem: The Login page is missing the “Login” Title on top. Also, it doesn’t have a sign-up button near the top right next to the Home button. This makes it difficult for the user to sign up if they need to register.
 	
 Screenshot of original:
 
@@ -69,7 +69,7 @@ Screenshot of Revised UI:
 ![Prototype HE 4 revised](https://user-images.githubusercontent.com/6775270/169417755-729bc521-e6c7-45e0-822d-97f8f6de8939.png)
 
 ### Problem 5
-Problem: After a person logs in, they are supposed to be able to log out. However, in all the pages that were signed it, they are missing the log out button option. - Alekhya, Lean, Kris
+Problem: After a person logs in, they are supposed to be able to log out. However, in all the pages that were signed it, they are missing the log out button option.
 
 Screenshot of original:
 <img width="268" alt="Prototype HE 5 orig" src="https://user-images.githubusercontent.com/6775270/169417780-2517b57f-92a4-4491-9ccd-7e723266e14a.png">
@@ -84,7 +84,7 @@ Screenshot of Revised UI:
 ![Prototype HE 5 revised](https://user-images.githubusercontent.com/6775270/169417797-2cacd937-a456-44ba-a4e1-072f48bbd7fc.png)
 
 ### Problem 6
-Problem: The schedule page is supposed to show events or schedule a new event. However, from the page it is unclear as to what the user should do afterwards. It is also unclear as to how the user should make new events. - Alekhya, Kris
+Problem: The schedule page is supposed to show events or schedule a new event. However, from the page it is unclear as to what the user should do afterwards. It is also unclear as to how the user should make new events.
 
 Screenshot of original: 
 <img width="859" alt="Prototype HE 6 orig" src="https://user-images.githubusercontent.com/6775270/169417817-86178e8b-d177-4521-bc33-7b44a12b13af.png">
@@ -99,7 +99,7 @@ Screenshot of revised UI:
 ![Prototype HE 6 revised](https://user-images.githubusercontent.com/6775270/169417822-e2357a89-56b5-4363-b7b1-9b51c29c3f79.jpg)
 
 ### Problem 7
-Problem: The search bar is missing a search action button. This may be necessary to make it more accessible. - Duy, Kris
+Problem: The search bar is missing a search action button. This may be necessary to make it more accessible.
 
 Screenshot of original:
 <img width="268" alt="Prototype HE 7 orig" src="https://user-images.githubusercontent.com/6775270/169417866-11d2b179-8368-4849-88ef-6330a16372f9.png">
@@ -114,7 +114,7 @@ Screenshot of revised UI:
 ![Prototype HE 7 revised](https://user-images.githubusercontent.com/6775270/169417883-ec3ebbad-686a-4fd5-a90e-06b0c5d43830.jpg)
 
 ### Problem 8
-Problem: A lot of the pages have no back button. - Alekhya, Kris
+Problem: A lot of the pages have no back button.
 
 Screenshot of original:
 <img width="873" alt="Prototype HE 8 orig" src="https://user-images.githubusercontent.com/6775270/169417893-e3e6d341-45db-4924-8e5a-15dad8d382c7.png">
@@ -129,7 +129,7 @@ Screenshot of Revised UI:
 ![Prototype HE 8 revised](https://user-images.githubusercontent.com/6775270/169417904-d3f30911-045b-46bc-b779-d40417f16193.png)
 
 ### Problem 9
-Problem: Opportunity page and organization page show very similar information. - Robert
+Problem: Opportunity page and organization page show very similar information.
 
 Screenshot of original:
 <img width="607" alt="Prototype HE 9 orig" src="https://user-images.githubusercontent.com/6775270/169417921-e1be777a-7dfc-432d-8882-04b1d76bd8b7.png">
@@ -144,7 +144,7 @@ Screenshot of revised UI:
 ![Prototype HE 9 revised](https://user-images.githubusercontent.com/6775270/169417931-7e460699-60ca-440e-ae0e-d4f1c89d8511.png)
 
 ### Problem 10
-Problem: No navigation bars, thus not allowing the user to properly navigate through the pages. - Alekhya
+Problem: No navigation bars, thus not allowing the user to properly navigate through the pages.
 
 Screenshot of original:
 <img width="268" alt="Prototype HE 10 orig" src="https://user-images.githubusercontent.com/6775270/169417943-65d55242-0de7-4b01-87b1-5b9834a4a997.png">
@@ -157,47 +157,3 @@ Recommendation: Make NavBar available in some pages for easy access and control 
 
 Screenshot of revised UI:
 ![Prototype HE 10 revised](https://user-images.githubusercontent.com/6775270/169417957-33143078-8fb3-45ae-abdb-691ea195bf28.png)
-
-## Usability Testing
-
-### Usability Testing Tasks
-
-You are interested in volunteering and all the apps that you have seen you don’t like. You find one app, VOLUNTEER HUB, that you like and decide to search for a volunteer opportunity near you.
-You find a volunteer opportunity you are interested in. Register for the volunteer opportunity.
-You want to volunteer for a specific opportunity but you also don’t want it to conflict with your existing schedule. Make sure that you only schedule volunteer opportunities during times that don’t conflict with your schedule.
-You recently found out your brother is getting married! You are now unexpectedly tasked with helping with the preparations for the wedding. In the chaos of preparing, you remember that you previously signed up for a volunteer opportunity during a time when your brother is getting his suit fitted which you need to be present for. As a result, you want to make sure that the organization you signed up with does not plan for your attendance.
-You moved to a new place and you would like to continue receiving the periodic pamphlets that your favorite organization mails out quarterly. Make an adjustment to ensure you receive this pamphlet.
-
-### Notes of how Tasks were completed
-
-Usability tests 3 and 5 were not completed because of a lack of implementation of those features at the time of testing.
-For usability test 1, the user did not have something they wanted to search for right off the bat, so they scrolled down on the home page to see what was on offer there. They clicked a category that sparked their interest and then were taken to the search page. The user then tried to refine their search to a specific geographic region using the “Filter By” sidebar, but discovered that these components were static. They did, however, express that they felt it was simple to find this functionality.
-For usability test 2, they simply built off of the steps they performed in test 1. After landing at the Opportunity page, they expressed some confusion about what the difference between a “job” and an “event” were and why there were different buttons for them. However, they did manage to hit the volunteer button for the “event” and schedule themselves and were pleased to see the confirmation pop-up. Despite them being able to successfully schedule themselves for this opportunity, they were never directed to create an account (which was , but this is simply due to the lack of logged-in state being captured in our prototype.
-For usability test 4, the user was able to find where they could reschedule an event they had signed up for, but there was no UI implemented to actually make this change happen.
-Noticed some parts of the theme weren’t consistent.
-Assumed they could cancel or reschedule from the schedule page.  Hadn’t attempted to schedule a job yet, however, and was quick to figure it out once they went to the organization page.
-When prompted to go to the home page they automatically clicked on the logo rather than the home button on the taskbar.
-When asked to change their address they went to the account page.
-Overall did not have any trouble navigating the site
-
-### UI Usability Evaluation Questions and Responses from Users 
-See Usability Test Evaluation Google Form: https://forms.gle/Y8hQrG23MBPJSFp6A
-
-Although some of the user’s were not able to complete the tasks they did find the UI to be easy to navigate. The users were also satisfied with how quickly they were able to complete the tasks that they did finish. Some of the features that they mentioned were missing was that they were not able to edit the schedule from the schedule page. Additionally, the users mentioned that they were not able to edit their profile and that they were not able to schedule their unavailable times in the prototype. The users also felt that there was a lot of redundancy when navigating through the UI. They mentioned that a lot of the time they were being redirected to the same search page.     
-
-![Prototype UT 1](https://user-images.githubusercontent.com/6775270/169418190-5952b32b-f438-46ea-9d85-89c22d0de3f6.jpg)
-
-### Prototype Iteration based on Usability Testing Evaluation
-
-Added ability to reschedule or cancel directly from the opportunity page instead of requiring the user to go to their user Schedule page
-
-![Prototype UT 2](https://user-images.githubusercontent.com/6775270/169418225-a14eeeec-6a2b-4472-b404-a39a4b95be15.png)
-
-Added ability to interact with search filters on the search page
-![Prototype UT 3](https://user-images.githubusercontent.com/6775270/169418256-5def6c2f-cd77-4033-b4e1-aaa5de85131e.jpg)
-
-Added ability to edit info fields on the user account page
-![Prototype UT 4](https://user-images.githubusercontent.com/6775270/169418278-b5042582-e805-4d93-9d4a-b9f5987e944a.jpg)
-
-Added ability to edit schedule and availability from the schedule page in the user profile
-![Prototype UT 5](https://user-images.githubusercontent.com/6775270/169418301-75cbe2b4-b75f-42f2-aa2a-34b2ec1fcfb8.jpg)
