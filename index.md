@@ -1,9 +1,3 @@
----
-layout: default
-title: Introduction
-nav_order: 1
----
-
 # Project Description
 ### Problem Statement
 
