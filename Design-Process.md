@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Design Process
-nav_order: 2
+nav_order: 3
 ---
 
 # Design Process
