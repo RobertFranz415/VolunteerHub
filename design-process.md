@@ -6,7 +6,9 @@ nav_order: 3
 
 # Methods Used
 
-	The two methods we selected for user research are focus groups and one-on-one interviews. The reason we chose to go with these methods is we believed that the design of the final app should be motivated by the users that will ultimately end up using the application. Considering the perspectives of the target audience will allow our team to create an application better suited for the users.
+The two methods we selected for user research are focus groups and one-on-one interviews.The reason we chose to go with these methods is we believed that
+the design of the final app should be motivated by the users that will ultimately end up using the application. Considering the perspectives of the target
+audience will allow our team to create an application better suited for the users.
 
 # Details of Participation
 
