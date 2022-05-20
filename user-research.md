@@ -1,16 +1,18 @@
 ---
 layout: default
-title: Design Process
+title: User Research
 nav_order: 3
 ---
 
-# Methods Used
+# User Research
+
+## Methods Used
 
 The two methods we selected for user research are focus groups and one-on-one interviews.The reason we chose to go with these methods is we believed that
 the design of the final app should be motivated by the users that will ultimately end up using the application. Considering the perspectives of the target
 audience will allow our team to create an application better suited for the users.
 
-# Details of Participation
+## Details of Participation
 
 ### Volunteer Focus Group - In Person - Recorded
 
@@ -46,7 +48,7 @@ Data was collected, turned into a transcript and processed for analysis.
 
 None were current students but were in the workforce
 
-# Analysis of Data
+## Analysis of Data
 The data that was obtained was purely qualitative. We observed that the best way to analyze the data was to perform affinity mapping on it. The thematic
 analysis approach that we took was a semantic/latent approach. Firstly, we grouped the interviews and focus group for the volunteers into one group and the non-volunteers into another group. We performed a thematic analysis on both groups separately. 
 
@@ -57,10 +59,10 @@ notes that seemed to belong in the same group and from each individual group we 
 overarching theme that we saw among the sticky notes that stuck together.      
 
 
-# Findings
-## Volunteers
+## Findings
+### Volunteers
 
-### Convenience for volunteers should be a priority
+#### Convenience for volunteers should be a priority
 After conducting the interviews and analyzing the data gathered, it was clear that convenience was a defining factor whether someone volunteered for an
 organization or not and how they enjoyed their experience.  People often have busy schedules so making the process of finding opportunities for volunteers
 as convenient as possible helps alleviate wasted time.  Similarly, people were much more likely to volunteer when opportunities were within a relatively
@@ -69,17 +71,17 @@ retain volunteers.  One interviewee stated their “first experience volunteerin
 just a lack of knowledge about where to start.”  Multiple interviewees stated that there was almost no onboarding process when they first started.
 Improving the signing up and onboarding process would greatly improve the overall experience.
   
-### Ease of Access
+#### Ease of Access
 Furthering the idea of convenience, we found people were more likely to volunteer when they were not required to go out and search for volunteering
 opportunities themselves.  The convenience from having friends who already volunteer or having connections to a volunteering organization led to people
 being much more likely to start volunteering.
 
-### Compulsion in Volunteering
+#### Compulsion in Volunteering
 Our interviewees expressed a distaste for compulsory hours volunteered.  Volunteers preferred organizations which provided more flexible work scheduling
 over those which required a rigid schedule or had a minimum hours worked requirement.  Potential volunteers should be enticed to volunteer, rather than
 made to.
   
-### Incentives for Volunteers
+#### Incentives for Volunteers
 Volunteering, by definition, does not provide monetary compensation for the work done.  Alternative incentives are important to potential volunteers when
 deciding whether they should commit their time to an organization.  This incentive could be as simple as providing an opportunity to learn something or
 interact with kind and like-minded people.
@@ -88,20 +90,20 @@ Additionally, the incentives could be volunteer requirements for school or even 
 the events kept talking about how much fun they had, so after a while, I started to get a bit of FOMO.”  This statement was echoed by another: “I’d say
 the biggest motivator is peer pressure. That’s what made me start coming to events--I didn’t want to miss out on the social aspect.”
 
-### Positive Energy and Self-Fulfillment 
+#### Positive Energy and Self-Fulfillment 
 Potentially the most influential incentive is the positive energy and sense of self-fulfillment volunteering provides to people.  This can be observed
 even more so when someone volunteers for a cause which deeply resonates with them.  Our interviewees reported that once people experience the positive
 energy from volunteering, they are intrinsically motivated to participate more in the future.  Furthermore, if people are able to observe the benefits,
 they are more likely to be interested in volunteering for the first time.
 
-## Non-Volunteers
-### Knowing Volunteers Creates Volunteers
+### Non-Volunteers
+#### Knowing Volunteers Creates Volunteers
 Similar to what the volunteer interviewees stated, the non-volunteers stated that having friends or family would or does in fact instill an interest in
 volunteering.  Having friends or family who volunteer allows for a person to see first hand the type of positive energy someone receives when they
 volunteer.  Additionally, knowing someone who volunteers comes back to the notion of making the process of connecting with an organization as convenient
 as possible for potential volunteers.  
   
-### Incentives
+#### Incentives
 One major reason for why they do not volunteer was the lack of incentive to.  For someone who does not volunteer, they may have not experienced the sense
 of self-fulfillment from volunteering or simply do not believe it is enough to compensate for their time.  One interviewee described volunteering as “work
 without the money” which captures how many view volunteering.  People need money in order to survive and only have so much time.  Workers only have so
@@ -111,7 +113,7 @@ much free time and it is understandable if they value enjoying it another way ra
 In order to alleviate these issues, we would need to address ways on how to demonstrate the non-monetary incentives of volunteering and making the process
 as convenient as possible in order to show we value the volunteer’s time.
 
-### Put Volunteers First
+#### Put Volunteers First
 Volunteers should be put first in order to entice people to sign up.  Ultimately this means to make things as easy, quick, and convenient as possible for
 potential volunteers.  Organizations should not have too many constraints for people who are looking into volunteering for them.  Multiple interviewees
 stated a frustration with some organizations requiring previous experience and believed training should be offered instead.  Volunteers should also be
@@ -119,7 +121,7 @@ able to sign up for more flexible schedules.  One person stated that they “wou
 consideration the hours I can offer to work.”  If these barriers were reduced or improved upon, one interviewee stated that they would “definitely
 volunteer.”
 
-# Discussion or Implications for Design
+## Discussion or Implications for Design
 Through the analysis of our user data, we have identified several design elements that we believe will address some of the biggest priorities both that
 our users have explicitly stated they have and that we have observed as motivators of increased volunteer participation.
 
@@ -146,7 +148,7 @@ featuring sharing buttons on both particular opportunities or the badges / impac
 programs that require a certain number of volunteer hours to verify that work has been done. We also want to feature prominently photos in all
 organization and opportunity materials to have users get a glimpse into what the actual impact of volunteering is to encourage engagement.
 
-# Limitations
+## Limitations
 
 Despite all our research and design discussion, there are, of course, limitations to this work. These limitations fall in two major categories:
 limitations in our design and limitations in our data. We identified the limitations of our design by pulling out some of the primary pain points users
@@ -157,5 +159,3 @@ difficult problems to very fundamentally tackle through a technological solution
 our sample size is comparatively quite low given the time constraints for collection we had, the focus group participants were primarily from a specific
 population (CS students at SF State) that didn’t exactly match with our target audience for the application, and the population of designers (our team) 
 that participated in affinity diagramming was relatively small so the interpretations of the data may have not been as diverse compared to a broader sample of people participating in that process.
-
-

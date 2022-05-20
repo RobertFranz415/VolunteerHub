@@ -6,7 +6,10 @@ nav_order: 4
 
 # Wireframing
 
-We started with basic wireframing to get an initial draft of a UI for our website out:
+After conducting our user reserach, we began by creating 
+basic wireframes of the UI for our website that we thought 
+would appropriately fulfill the needs of our prospective 
+users.
 
 ## Home Page
 ![Wireframe 1](https://user-images.githubusercontent.com/6775270/169416626-0cbc4822-cd12-4efe-aec7-a02990742881.jpg)

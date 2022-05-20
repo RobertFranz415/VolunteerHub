@@ -9,23 +9,39 @@ nav_order: 5
 
 ### Usability Testing Tasks
 
-You are interested in volunteering and all the apps that you have seen you don’t like. You find one app, VOLUNTEER HUB, that you like and decide to search for a volunteer opportunity near you.
-You find a volunteer opportunity you are interested in. Register for the volunteer opportunity.
-You want to volunteer for a specific opportunity but you also don’t want it to conflict with your existing schedule. Make sure that you only schedule volunteer opportunities during times that don’t conflict with your schedule.
-You recently found out your brother is getting married! You are now unexpectedly tasked with helping with the preparations for the wedding. In the chaos of preparing, you remember that you previously signed up for a volunteer opportunity during a time when your brother is getting his suit fitted which you need to be present for. As a result, you want to make sure that the organization you signed up with does not plan for your attendance.
-You moved to a new place and you would like to continue receiving the periodic pamphlets that your favorite organization mails out quarterly. Make an adjustment to ensure you receive this pamphlet.
+1. You are interested in volunteering and all the apps that 
+you have seen you don’t like. You find one app, Volunteer 
+Hub, that 
+you like and decide to search for a volunteer opportunity near you.
+2. You find a volunteer opportunity you are interested in. 
+Register for the volunteer opportunity.
+3. You want to volunteer for a specific opportunity but you also don’t want it to conflict with your existing 
+schedule. Make sure that you only schedule volunteer opportunities during times that don’t conflict with your schedule.
+4. You recently found out your brother is getting married! 
+You are now unexpectedly tasked with helping with the preparations for the wedding. In the chaos of preparing, you remember that you previously signed up for a volunteer opportunity during a time when your brother is getting his suit fitted which you need to be present for. As a result, you want to make sure that the organization you signed up with does not plan for your attendance.
+5. You moved to a new place and you would like to continue 
+receiving the periodic pamphlets that your favorite organization mails out quarterly. Make an adjustment to ensure you receive this pamphlet.
 
 ### Notes of how Tasks were completed
 
-Usability tests 3 and 5 were not completed because of a lack of implementation of those features at the time of testing.
-For usability test 1, the user did not have something they wanted to search for right off the bat, so they scrolled down on the home page to see what was on offer there. They clicked a category that sparked their interest and then were taken to the search page. The user then tried to refine their search to a specific geographic region using the “Filter By” sidebar, but discovered that these components were static. They did, however, express that they felt it was simple to find this functionality.
-For usability test 2, they simply built off of the steps they performed in test 1. After landing at the Opportunity page, they expressed some confusion about what the difference between a “job” and an “event” were and why there were different buttons for them. However, they did manage to hit the volunteer button for the “event” and schedule themselves and were pleased to see the confirmation pop-up. Despite them being able to successfully schedule themselves for this opportunity, they were never directed to create an account (which was , but this is simply due to the lack of logged-in state being captured in our prototype.
-For usability test 4, the user was able to find where they could reschedule an event they had signed up for, but there was no UI implemented to actually make this change happen.
-Noticed some parts of the theme weren’t consistent.
-Assumed they could cancel or reschedule from the schedule page.  Hadn’t attempted to schedule a job yet, however, and was quick to figure it out once they went to the organization page.
-When prompted to go to the home page they automatically clicked on the logo rather than the home button on the taskbar.
-When asked to change their address they went to the account page.
-Overall did not have any trouble navigating the site
+- Usability tests 3 and 5 were not completed because of a 
+lack of implementation of those features at the time of testing.
+- For usability test 1, the user did not have something 
+they 
+wanted to search for right off the bat, so they scrolled down on the home page to see what was on offer there. They clicked a category that sparked their interest and then were taken to the search page. The user then tried to refine their search to a specific geographic region using the “Filter By” sidebar, but discovered that these components were static. They did, however, express that they felt it was simple to find this functionality.
+- For usability test 2, they simply built off of the steps 
+they performed in test 1. After landing at the Opportunity page, they expressed some confusion about what the difference between a “job” and an “event” were and why there were different buttons for them. However, they did manage to hit the volunteer button for the “event” and schedule themselves and were pleased to see the confirmation pop-up. Despite them being able to successfully schedule themselves for this opportunity, they were never directed to create an account (which was , but this is simply due to the lack of logged-in state being captured in our prototype.
+- For usability test 4, the user was able to find where 
+they 
+could reschedule an event they had signed up for, but there was no UI implemented to actually make this change happen.
+- Noticed some parts of the theme weren’t consistent.
+- Assumed they could cancel or reschedule from the schedule 
+page.  Hadn’t attempted to schedule a job yet, however, and was quick to figure it out once they went to the organization page.
+- When prompted to go to the home page they automatically 
+clicked on the logo rather than the home button on the taskbar.
+- When asked to change their address they went to the 
+account page.
+- Overall did not have any trouble navigating the site
 
 ### UI Usability Evaluation Questions and Responses from Users 
 See Usability Test Evaluation Google Form: https://forms.gle/Y8hQrG23MBPJSFp6A
