@@ -5,7 +5,7 @@ parent: Prototyping
 nav_order: 5
 ---
 
-# Heuristic Evaluation of Issues in Prototypes 
+# Heuristic Evaluation of Issues
 
 ### Problem 1
 Problem: It is difficult to access different parts of the website quickly from the homepage. There is no main menu to navigate the website quickly.
